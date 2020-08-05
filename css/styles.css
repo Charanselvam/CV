@@ -1,0 +1,25 @@
+/***************************Tag Selectors**********************/
+
+body{
+    background-color:#e3fdfd;
+}
+hr{
+    border-top-style: dotted;
+    border-color: bisque;
+    
+}
+h3{
+    color: cadetblue;
+}
+h1{
+    color: #465b83;
+    font-style: italic;
+}
+
+/***************************Class Selectors**********************/
+
+.boy{
+    color: darkblue;
+}
+
+/***************************ID Selectors**********************/
